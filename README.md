@@ -19,7 +19,7 @@ Burn Contract: 0xAdF08d0b42bF005b37BF19477a55F9C2366162Af
 LP Token Contract: 0x6462fcc1ea7c219c011fd1047dc58fa8ee516750
 
 
-Others Chain via Wormhole
+Others Chains via [Wormhole Protocol (https://github.com/certusone/wormhole)]
 
 
 - Polygon Addr: 0xDCa3a78c30FD8ee39FD504104d8b00285b8bC478
