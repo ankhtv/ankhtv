@@ -3,6 +3,8 @@
 ### ANKH TV Token was developed to operate as a service token for the website (https://ankh.tv), having as one of the objectives the financing of the site and enabling a profitable return for the supporters, through the valuation of the asset.
 
 
+## Basic Characteristics
+
 NAME: ANKH TV Token
 
 SYMBOL: ANKHTV
@@ -19,7 +21,7 @@ Burn Contract: 0xAdF08d0b42bF005b37BF19477a55F9C2366162Af
 LP Token Contract: 0x6462fcc1ea7c219c011fd1047dc58fa8ee516750
 
 
-Others Chains via [Wormhole Protocol](https://github.com/certusone/wormhole)
+## Others Chains via [Wormhole Protocol](https://github.com/certusone/wormhole)
 
 
 - Polygon Addr: 0xDCa3a78c30FD8ee39FD504104d8b00285b8bC478
@@ -27,7 +29,7 @@ Others Chains via [Wormhole Protocol](https://github.com/certusone/wormhole)
 - Solana Addr: C7pACxCfMvwKXHqVM4oMjyxQsnMdnBJWrvovCJZDuJWZ
 
 
-Liquidity Pools/Exchanges
+## Liquidity Pools/Exchanges
 
 
 Binance Smart Chain BNB/ANKHTV: PancakeSwap
