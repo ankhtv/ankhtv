@@ -1,4 +1,4 @@
-###ANKH TV Token
+#ANKH TV Token
 
 ANKH TV Token was developed to operate as a service token for the website (https://ankh.tv), having as one of the objectives the financing of the site and enabling a profitable return for the supporters, through the valuation of the asset.
 
@@ -30,7 +30,7 @@ Others Chain via Wormhole
 Liquidity Pools/Exchanges
 
 
-Binance Smart Chain: BNB/ANKHTV: PancakeSwap
+Binance Smart Chain BNB/ANKHTV: PancakeSwap
 
 
 <!--
