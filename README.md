@@ -32,8 +32,15 @@ LP Token Contract: 0x6462fcc1ea7c219c011fd1047dc58fa8ee516750
 ## Liquidity Pools/Exchanges
 
 
-Binance Smart Chain BNB/ANKHTV: PancakeSwap
+Swap BNB/ANKHTV (Binance Smart Chain)
 
+[PancakeSwap](https://pancakeswap.finance/swap?outputCurrency=0x14954e8AC43FF782C8b371397468C81b82df129e)
+[BogSwap DEX](https://app.bogged.finance/bsc/swap?tokenIn=BNB&tokenOut=0x14954e8AC43FF782C8b371397468C81b82df129e)
+
+
+Liquidity
+
+[PancakeSwap](https://pancakeswap.finance/add/BNB/0x14954e8AC43FF782C8b371397468C81b82df129e)
 
 <!--
 **ankhtv/ankhtv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
