@@ -1,0 +1,14 @@
+"root":{6 items
+"key":int4
+"updateAuthority":string"BCD75RNBHrJJpW4dXVagL5mPjzRLnVZq4YirJdjEYMV7"
+"mint":string"C7pACxCfMvwKXHqVM4oMjyxQsnMdnBJWrvovCJZDuJWZ"
+"data":{5 items
+"name":string"ANKH TV Token (Wormhole)"
+"symbol":string"ANKHTV"
+"uri":string""
+"sellerFeeBasisPoints":int0
+"creators":undefined
+}
+"primarySaleHappened":int0
+"isMutable":int1
+}
